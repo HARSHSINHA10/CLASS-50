@@ -1,0 +1,23 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.header{background-color: navy;
+display: flex;
+justify-content: space-between;
+}
+.new{background-color: red;
+display: grid;
+justify-content: space-evenly;
+}
+.new1{background-color: rosybrown;
+display: inline-flex;
+justify-content: space-around;
+}
+.new2{background-color: yellow;
+    display: ruby-base-container;
+    justify-content: space-evenly;
+}
